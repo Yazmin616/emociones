@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+}
+
+.card {
+    border-radius: 8px;
+    border: none;
+    background-color: #ffffff;
+}
+
+#result img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 1rem;
+}

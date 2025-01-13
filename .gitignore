@@ -1,0 +1,6 @@
+# Ignorar entorno virtual
+venv/
+.venv/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
